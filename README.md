@@ -15,7 +15,7 @@ Supports crypto-to-crypto and crypto-to-fiat conversions with metadata (logos, s
 ##  Features
 
 - Real-time conversion rates via [CoinGecko API](https://www.coingecko.com/en/api)
-- Clean dark UI with Sora font and gradient background
+- Clean dark UI and gradient background
 - Fully responsive design
 - Switch button to reverse currencies
 - Coin logos, names, and symbols
