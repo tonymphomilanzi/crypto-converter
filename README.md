@@ -1,5 +1,5 @@
 #  React Cryptocurrency Converter
-
+![Image](https://github.com/user-attachments/assets/4a42536c-e489-46f8-9bb2-b0d219684b43)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-0EA5E9?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![shadcn/ui](https://img.shields.io/badge/shadcn/ui-darkred?style=for-the-badge)
