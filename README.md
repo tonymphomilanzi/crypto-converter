@@ -1,11 +1,11 @@
-# 💱 React Cryptocurrency Converter
+#  React Cryptocurrency Converter
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-0EA5E9?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![shadcn/ui](https://img.shields.io/badge/shadcn/ui-darkred?style=for-the-badge)
 ![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
 ![CoinGecko API](https://img.shields.io/badge/CoinGecko%20API-green?style=for-the-badge)
-![License](https://img.shields.io/badge/license-MIT-blue?style=for-the-badge)
+
 
 A simple cryptocurrency converter built with **React**, styled using **Tailwind CSS**, **shadcn/ui**, and powered by live exchange rates from the [CoinGecko API](https://www.coingecko.com/en/api).  
 Supports crypto-to-crypto and crypto-to-fiat conversions with metadata (logos, symbols, names).
